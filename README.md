@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jonnekaunisto/jonnekaunisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnekaunisto&count_private=true&show_icons=true&theme=tokyonight)](https://www.github.com/safelock)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnekaunisto&layout=compact&theme=tokyonight)](https://www.github.com/jonnekaunisto?tab=repositories)
+
